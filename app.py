@@ -13,9 +13,14 @@ recipes = {
         "instructions": "1. Boil water\n2. Cook noodles\n3. Add toppings"
     },
     "quick-pbj": {
-    "name": "Quick PB&J",
-    "ingredients": ["bread", "peanut butter", "jelly"],
-    "instructions": "1. Spread peanut butter & jelly on slices\n2. Put them together"
+        "name": "Quick PB&J",
+        "ingredients": ["bread", "peanut butter", "jelly"],
+        "instructions": "1. Spread peanut butter & jelly on slices\n2. Put them together"
+    },
+    "banana-smoothie": {
+        "name": "Banana Smoothie",
+        "ingredients": ["1 banana", "1 cup milk", "2 tbsp honey", "ice cubes"],
+        "instructions": "1. Add ingredients to blender\n2. Blend until smooth\n3. Enjoy!"
 }
 }
 
